@@ -1,5 +1,5 @@
 # Case Studies
-A collection of evaluated case studies using visualizations and statistical inferences along with predictive modeling and analytics such as linear regression, classification models (logistic regression, decision trees, random forest, bagging, adaboost, ensemble classifiers) and clustering.
+A collection of annotated evaluated case studies (Notebook) using visualizations and statistical inferences along with predictive modeling and analytics such as linear regression, classification models (logistic regression, decision trees, random forest, bagging, adaboost, ensemble classifiers) and clustering.
 
 ### Clustering Bank Customers - [Notebook](https://github.com/cdgphysics/Case-Studies/blob/master/Bank_Customer_Loan.ipynb)
 * To create optimal number of clusters for the bank customers, describe how each cluster differs from others, and suggest business insights for the bank
